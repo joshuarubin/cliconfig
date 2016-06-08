@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/codegangsta/cli"
 	. "github.com/smartystreets/goconvey/convey"
+	"github.com/urfave/cli"
 )
 
 type testConfig struct {

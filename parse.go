@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 )
 
 // Parse the cli.Context and set the values in dest appropriately

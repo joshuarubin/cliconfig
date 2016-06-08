@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 )
 
 // Flags returns a slice of cli.Flag suitable for using with a cli.App or
